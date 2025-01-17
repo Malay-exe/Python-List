@@ -40,7 +40,7 @@ The programs in this repository are categorized based on their functionality and
 To clone this repository, use the following command:
 
 ```bash
-git clone https://github.com/your-username/python-list-programs.git
+git clone https://github.com/Malay-exe/python-list-programs.git
 ```
 # 📖 Highlights
 Educational: Clear and concise examples for learning list operations.<br>

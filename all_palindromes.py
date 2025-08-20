@@ -13,5 +13,6 @@ def palino(s):
             if palindrome(st):
                 a.append(st)
     return a
+    
 s='aaabaaa'
 print(palino(s))
